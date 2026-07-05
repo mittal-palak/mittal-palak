@@ -133,5 +133,5 @@ Every repository here represents one step in that journey.
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/contactmittalpalak
+- 💼 LinkedIn: https://linkedin.com/in/contactmittalpalak 
 - 📧 connectpalak.mittal@gmail.com
